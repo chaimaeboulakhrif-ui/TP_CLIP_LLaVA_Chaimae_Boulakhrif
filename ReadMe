@@ -1,0 +1,51 @@
+# CLIP and LLaVA — Vision-Language Lab
+
+## Overview
+
+This project explores vision-language models through image classification,
+image-text similarity, semantic image retrieval, visual question answering,
+and hallucination analysis.
+
+## Repository Contents
+
+- Jupyter Notebook: completed experiments, code, outputs, answers, and remarks.
+- images/: images used in the experiments.
+- requirements.txt: Python packages used for the project.
+
+## Experiments
+
+1. CLIP model loading and image preprocessing
+2. Image-text similarity
+3. Zero-shot image classification
+4. Classification accuracy evaluation
+5. Prompt engineering
+6. Top-5 text-to-image retrieval
+7. LLaVA visual question answering
+8. Human evaluation of VQA answers
+9. Visual hallucination analysis
+10. CLIP/LLaVA comparison
+11. Mini-project: image-based question-answering assistant
+
+## Reported Results
+
+- CLIP classification: 10 correct predictions out of 10 images (100%).
+- LLaVA VQA: 20 correct answers out of 25 questions (80%).
+- A hallucination example involving an absent bicycle is included.
+
+These results apply only to the small test sets used in this lab.
+
+## How to Run
+
+1. Open the notebook in Google Colab.
+2. Enable a GPU runtime.
+3. Run the installation cells provided in the notebook.
+4. Upload the images and check the image paths.
+5. Run the experiment cells in order.
+
+The original experiments used the directory /bin/images.
+Adapt the paths or recreate this directory before running the notebook.
+
+## Limitations
+
+Generated answers may contain incorrect or invented details.
+Human verification is required.
