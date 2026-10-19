@@ -1,0 +1,63 @@
+Image,Question,LLaVA Answer,Human Evaluation
+class_1.jpg,What is the main subject of this image?," The main subject of this image is a large passenger jet, specifically a North American airliner, sitting on the runway.",1
+class_1.jpg,How many people are visible in this image?,1 person is visible in the image.,0
+class_1.jpg,What objects can you identify?,"1. A large passenger jet airplane, possibly a North American airliner, sitting on the runway.
+2. A car, possibly a police car, parked near the airplane.
+3. A person standing near the airplane.
+4. A truck parked near the airplane.
+5. A few trees in the background.",1
+class_1.jpg,What is happening in this image?," The image features a large North American airplane parked on the runway at an airport. The airplane is positioned on the tarmac, and there are several people around it, likely attending to various tasks or preparing for the flight. In addition to the airplane, there are a few cars and a truck visible in the scene, possibly providing support services or transportation for the passengers and crew.",0
+class_1.jpg,Describe the image in one sentence., A North American airplane is on the runway.,1
+class_10.jpg,What is the main subject of this image?," The main subject of this image is a close-up of a human brain, with a red line drawn through it.",1
+class_10.jpg,How many people are visible in this image?,0,1
+class_10.jpg,What objects can you identify?,"1. A brain
+2. A red line
+3. A white background
+4. A red line on the brain
+5. A white background with a red line on the brain
+6. A white background with a red line on the brain
+7. A white background with a red line on the brain
+8. A white background with a red line on the brain
+9. A white background with a red line on the brain
+10. A white background with a red line on the brain",0
+class_10.jpg,What is happening in this image?," The image features a close-up of a human brain, with a red line drawn through the center of it. The brain is shown in a black and white image, which highlights the contrast between the red line and the surrounding brain tissue. The red line divides the brain into two equal halves, creating a visually striking and memorable representation of the human brain.",1
+class_10.jpg,Describe the image in one sentence.,3D image of a brain with a red line through it.,1
+class_13.jpg,What is the main subject of this image?,1. A butterfly made out of paper.,1
+class_13.jpg,How many people are visible in this image?,0,1
+class_13.jpg,What objects can you identify?,"1. Butterfly
+2. Paper
+3. Black background",1
+class_13.jpg,What is happening in this image?," In the image, there is a close-up of a paper butterfly, which is a creative and intricate paper craft. The butterfly is made from folded paper and is placed on a black background. The paper butterfly is positioned in the center of the image, capturing the viewer's attention. The paper craft is a unique and artistic representation of a butterfly, showcasing the skill and creativity involved in its creation.",0
+class_13.jpg,Describe the image in one sentence.,3D paper butterfly on a black background.,1
+class_18.jpg,What is the main subject of this image?, The main subject of this image is a cell phone.,1
+class_18.jpg,How many people are visible in this image?,0,1
+class_18.jpg,What objects can you identify?,"1. A cell phone
+2. A keypad
+3. A screen
+4. A speaker
+5. A camera
+6. A microphone
+7. A phone number
+8. A battery
+9. A display
+10. A dial pad
+11. A phone
+12. A view of the back of a cell phone
+13. A view of the back of a cell phone with a camera
+14. A view of the back of a cell phone with a camera and a microphone
+15. A view of the back",0
+class_18.jpg,What is happening in this image?," The image features a close-up of a cell phone, with its screen displaying a number pad. The phone is placed on a surface, possibly a table or a desk. The focus of the image is on the cell phone, highlighting its screen and the number pad.",1
+class_18.jpg,Describe the image in one sentence.,2000's era cell phone with a screen and buttons.,1
+class_19.jpg,What is the main subject of this image?," The main subject of this image is a wooden chair, which is placed on a sidewalk or patio.",1
+class_19.jpg,How many people are visible in this image?,0,1
+class_19.jpg,What objects can you identify?,"1. A red and white striped chair.
+2. A large pot or planter.
+3. A small tree or bush.
+4. A window.
+5. A door.
+6. A bench.
+7. A potted plant.
+8. A window sill.
+9. A door sill.",0
+class_19.jpg,What is happening in this image?," The image features an outdoor setting with a red and white striped wooden chair placed on a concrete floor. The chair is positioned near a window, and there is a potted plant nearby. The scene is captured in two different angles, one showing the chair from the front and the other from the side. The combination of the chair, potted plant, and window creates a cozy and inviting atmosphere.",0
+class_19.jpg,Describe the image in one sentence.,2 pictures of a red and white striped chair in front of a window.,0
